@@ -9,3 +9,9 @@ console.log(number);
 
 const PI = 3.14; //number
 console.log(PI);
+
+//Esercizio 2/B
+//Prova ad assegnare alla costante chiamata PI il valore di 3.1416. Sai dire cosa succede?
+
+PI = 3.1416;//Una costante non è riassegnabile e quindi si ottiene un errore
+console.log(PI);
