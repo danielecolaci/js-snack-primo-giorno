@@ -36,3 +36,12 @@ console.log(circle); //Number
 let name = "Carlo"; //String
 name = "Marco"; //String
 console.log(name);
+
+//Esercizio 4
+/*  Dichiara una variabile chiamata 'temperature' e assegnale il valore "22.5".
+    Successivamente, aumenta il suo valore di "5" e stampa il nuovo valore in console. 
+*/
+
+let temperature = 22.5;
+temperature += 5;
+console.log(+ temperature);
