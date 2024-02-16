@@ -13,8 +13,9 @@ console.log(PI);
 //Esercizio 2/B
 //Prova ad assegnare alla costante chiamata 'PI' il valore di "3.1416". Sai dire cosa succede?
 
-/* PI = 3.1416; //Una costante non è riassegnabile e quindi si ottiene un errore
-console.log(PI); */
+/*  PI = 3.1416; //Una costante non è riassegnabile e quindi si ottiene un errore
+    console.log(PI);
+*/
 
 //Esercizio 2/C
 /*  Dichiara una variabile chiamata 'radius' e assegnale il valore "8".
@@ -27,10 +28,10 @@ let circle = radius * 2 * PI;
 console.log(circle); //Number
 
 //Esercizio 3
-/* Dichiara una variabile chiamata 'name' e
-assegnale il valore "Carlo".
+/*  Dichiara una variabile chiamata 'name' e
+    assegnale il valore "Carlo".
     Successivamente, modifica il valore della variabile in "Marco".
-Stampa il nuovo valore in console. */
+    Stampa il nuovo valore in console. */
 
 let name = "Carlo"; //String
 name = "Marco"; //String
